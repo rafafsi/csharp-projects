@@ -1,0 +1,14 @@
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.exe
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.deps.json
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.runtimeconfig.json
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.dll
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\bin\Debug\net8.0\NumberGuesser.pdb
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfoInputs.cache
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.AssemblyInfo.cs
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.csproj.CoreCompileInputs.cache
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.dll
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\obj\Debug\net8.0\refint\NumberGuesser.dll
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.pdb
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\obj\Debug\net8.0\NumberGuesser.genruntimeconfig.cache
+C:\Users\rafaelafsi\Projects\csharp\NumberGuesser\NumberGuesser\obj\Debug\net8.0\ref\NumberGuesser.dll
